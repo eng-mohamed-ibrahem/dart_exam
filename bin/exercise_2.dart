@@ -4,7 +4,7 @@ void main(List<String> args) {
   print(getSLAndSG(numbers));
 }
 
-//function
+//function to get second Lowest and greatest in list
 List<num> getSLAndSG(List<num> numbers) {
   // sort the list
   numbers.sort(
